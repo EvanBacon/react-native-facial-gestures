@@ -1,0 +1,15 @@
+{
+  "name": "hands-free-photo-gallery",
+  "version": "0.0.0",
+  "description": "Finally you can browse photos totally hands free!",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^29.0.0",
+    "react": "16.3.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-29.0.0.tar.gz",
+    "expo-graphics": "1.0.0-alpha.5",
+    "expo-three": "3.0.0-alpha.1"
+  }
+}
